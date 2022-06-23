@@ -1,0 +1,37 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+"10.1016/j.antiviral.2008.07.003" "Citation_count" 4 ;
+    "LIME_explanation_Probability_high_score" 7.281901e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('proteins', -0.02471535450419778), ('monoclonal', 0.02150937645707041), ('Institute', 0.020913959158978434), ('antibodies', 0.020494368045103867), ('items', 0.020419556265220094), ('funding', 0.019508138178623055), ('suggest', -0.016143648370635397), ('provide', -0.014284857922287644), ('peptide', -0.00730101104284081), ('burden', 5.249306901259952e-05)]" .
+
+"10.1038/embor.2010.22" "Citation_count" 2 ;
+    "LIME_explanation_Probability_high_score" 8.203207e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('situations', -0.05473965457515657), ('increase', -0.034842388136371236), ('risk', -0.025111308617268), ('better', -0.02068333051744788), ('pandemics', -0.016102713684812284), ('reasons', -0.008447457597857887), ('best', -0.002786105501019939), ('safe', 0.0013745859704617012), ('emerging', -0.0010769695970300245), ('reflects', -0.00029921913512656096)]" .
+
+"10.1038/sj.embor.embor949" "Citation_count" 6 ;
+    "LIME_explanation_Probability_high_score" 7.443545e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('effects', -0.06262709638754099), ('topic', 0.04609727665568627), ('growing', -0.04398124548485531), ('problem', 0.03465087344227638), ('health', 0.03399931842793737), ('Understanding', -0.02676723539321696), ('important', -0.026416930826123442), ('causes', 0.02540134915400215), ('global', 0.024885091950893196), ('animals', -0.016018245130546744)]" .
+
+"10.1186/gb-2008-9-8-108" "Citation_count" 2 ;
+    "LIME_explanation_Probability_high_score" 7.390633e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('low', -0.0685244828176477), ('high', -0.048425760819149954), ('agents', -0.01642675029002286), ('released', 0.01238301315663205), ('needed', -0.011175107716782972), ('source', -0.007785586629975014), ('combat', 0.00769459566158244), ('strain', 0.006178803947319917), ('identifying', -0.004761805731589129), ('natural', -0.003503763673825174)]" .
+
+"10.3201/eid1404.080016" "Citation_count" 4 ;
+    "LIME_explanation_Probability_high_score" 8.978892e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('coronaviruses', -0.031068678125515545), ('Cellular', -0.01530195415415139), ('cellular', -0.014724300720392193), ('Molecular', -0.00608479350529034), ('molecular', -0.0058809421115931), ('Biology', -0.0036448626576914417), ('biologyCoronaviruses', -0.0009881780294211614)]" .
+
+"10.3349/ymj.2007.48.4.586" "Citation_count" 2 ;
+    "LIME_explanation_Probability_high_score" 6.058546e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('22', -0.045170042633177955), ('infected', -0.03078247147696631), ('paper', -0.0289524983728568), ('health', 0.018818022385724564), ('features', -0.014415075986251137), ('primary', -0.009268386837386554), ('contact', -0.009018479527295299), ('highly', -0.007944014332181634), ('clinical', -0.004433254816345649), ('occur', -0.003084387680704122)]" .
+
+"10.4103/1817-1737.43085" "Citation_count" 5 ;
+    "LIME_explanation_Probability_high_score" 5.885807e-01 ;
+    "LIME_explanation_True_class" "low" ;
+    "LIME_explanation_title_abstract" "[('transmission', -0.024730927818329133), ('pressure', -0.018542222879752133), ('disease', -0.016478696791036432), ('search', -0.01505104595869898), ('Saudi', 0.012845816883420893), ('18', -0.01184115846403826), ('pandemic', -0.010438666265357261), ('highly', -0.009876251740462054), ('infection', -0.009193732117294226), ('ability', -0.007291693794139216)]" .
+
